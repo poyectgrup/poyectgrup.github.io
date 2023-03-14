@@ -1,0 +1,10 @@
+#logo1{
+    float: left;
+    width: 10px;
+}
+#cuerpo{
+    float: center;
+    padding: 80px;
+    font-family: monospace;
+    font-size: 40px;
+}

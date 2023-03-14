@@ -1,0 +1,13 @@
+.logo1{
+    float: left;
+}
+#cuerpo{
+    float: center;
+    padding: 40px;
+    font-family: monospace;
+    font-size: 40px;
+}
+section{
+    text-align: justify;
+    padding: 10;
+}

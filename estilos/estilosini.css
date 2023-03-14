@@ -1,0 +1,19 @@
+#logo1{
+    float: left;
+}
+aside{
+    float: left;
+    width: 50%;
+}
+body{
+    background-color: #c9c9c9;
+}
+p{
+    text-align: justify;
+}
+#marco{
+    float: right;
+    width: 45%;
+    height: 250px;
+    background-color: #C5E0D8;
+}
